@@ -4,5 +4,5 @@ Alvaro Gomez
 Sergio Barranco
 
 
-Vamos a trabajar con JavaScript este año
-Vamos a trabajar con JavaScript este año 4.0
+
+We will work with several programming languages in this professional module
