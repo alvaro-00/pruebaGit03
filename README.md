@@ -5,4 +5,5 @@ Sergio Barranco
 
 
 
-We will work with several programming languages in this professional module
+Vamos a trabajar con varios lenguajes de programación en este módulo profesional
+
